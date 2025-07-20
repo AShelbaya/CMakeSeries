@@ -8,7 +8,7 @@ T add(T a, T b) {
 }   
 
 int main() {
-    int x = 7, y = 5;
+    int x = 7, y = 3;
 	std::cout << "Hello from C++20 with CMake on Linux/Windows!" << std::endl;
     std::cout << "Sum: " << add(x, y) << std::endl; // Valid usage with integral types
 
